@@ -48,10 +48,6 @@ const configuration = new Configuration({
 + openai.api_base = "https://xxxxx.deno.dev/v1"
 ```
 
-## 相关仓库
-
-- [ChatGPT 从入门到精通](https://github.com/justjavac/chatgpt)
-
 ## 本地开发
 
 ```bash
